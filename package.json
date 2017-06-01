@@ -1,0 +1,32 @@
+{
+  "name": "square-area",
+  "version": "0.0.1",
+  "description": "Get the area of a square, given the length of one of its sides",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhsz/square-area.git"
+  },
+  "keywords": [
+    "square",
+    "area",
+    "math"
+  ],
+  "author": {
+    "name": "Nicolás Quiroz",
+    "email": "nh.quiroz@gmail.com",
+    "url": "nicolasquiroz.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhsz/square-area/issues"
+  },
+  "homepage": "https://github.com/nhsz/square-area#readme",
+  "devDependencies": {
+    "ava": "^0.19.1"
+  }
+}
