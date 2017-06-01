@@ -20,7 +20,7 @@ test(t => {
 test('Negative value', t => {
   const error = t.throws(() => {
     squareArea(-1)
-  }, TypeError)
+  }, Error)
 
-  t.is(error.message, 'Invalid input. Side of the square must be greater than or equal to 0')
+  t.is(error.message, 'Invalid size. Side of the square must be greater than or equal to 0')
 })
