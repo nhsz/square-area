@@ -28,7 +28,7 @@ console.log(squareArea(Math.PI))
 // => 9.869604401089358
 
 console.log(squareArea(-1))
-// => TypeError: Invalid input. Side of the square must be greater than or equal to 0
+// => Error: Invalid size. Side of the square must be greater than or equal to 0
 ```
 
 
