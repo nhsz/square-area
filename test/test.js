@@ -1,5 +1,5 @@
 import test from 'ava'
-import squareArea from './'
+import squareArea from '../lib'
 
 test(t => {
   t.is(squareArea(0), 0)
