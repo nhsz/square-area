@@ -1,6 +1,6 @@
 {
   "name": "square-area",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Get the area of a square, given the length of one of its sides",
   "main": "index.js",
   "scripts": {
