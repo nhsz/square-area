@@ -1,6 +1,6 @@
 # square-area
 
-[![NPM](https://nodei.co/npm/square-area.png)](https://nodei.co/npm/square-area/)
+[![NPM](https://nodei.co/npm/square-area.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/square-area/)
 
 > Get the **[`area of a square`](https://en.wikipedia.org/wiki/Square#Perimeter_and_area)**, given the length of one of its sides
 
